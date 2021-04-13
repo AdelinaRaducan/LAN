@@ -1,0 +1,8 @@
+2
+add 0 possum 192.168.72.119 SINGLE
+add 3 possum 192.168.203.91 STACK 0 BASE
+add 2 possum 192.168.88.177 SINGLE
+show
+ipmin
+add 1 ranger5900 192.168.251.63 STACK 1 NON_BASE
+show

@@ -1,0 +1,8 @@
+1
+add 1 ranger5900 192.168.224.158 STACK 0 NON_BASE
+show
+add 3 possum 192.168.2.61 SINGLE
+show
+add 0 ranger4900 192.168.116.204 SINGLE
+add 2 jervisbay 192.168.61.8 SINGLE
+show
