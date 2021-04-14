@@ -63,3 +63,7 @@ Ex: In loc de adresa 192.168.1.13 va fi afișat numărul 3232235789
 - show\
 Se vor afișa pe o linie id-urile switch-urilor din coadă. Stivele se vor afișa in ordinea id-urilor.
 Switch-urile se vor afișa de la varful stivei la bază, fiecare pe câte o linie astfel: id IPv4 denumire.
+
+# Checker
+check.sh - scriptul de testare
+
